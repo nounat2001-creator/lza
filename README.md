@@ -1,1 +1,1 @@
-# lza
+# fintech-app-alpha
